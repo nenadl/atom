@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:feed xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cmis="http://docs.oasis-open.org/ns/cmis/core/200908/" xmlns:cmisra="http://docs.oasis-open.org/ns/cmis/restatom/200908/" xmlns:app="http://www.w3.org/2007/app">
+    <atom:author>
+        <atom:name>admin</atom:name>
+    </atom:author>
+    <atom:id>http://chemistry.apache.org/MTM4</atom:id>
+    <atom:title>MultifiledDocument</atom:title>
+    <app:edited>2012-07-13T06:14:04Z</app:edited>
+    <atom:updated>2012-07-13T06:14:04Z</atom:updated>
+    <atom:link rel="service" href="http://www.example.com:8080/inmemory/atom/A1?repositoryId=A1" type="application/atomsvc+xml"/>
+    <atom:link rel="self" href="http://www.example.com:8080/inmemory/atom/A1/parents?id=138" type="application/atom+xml;type=entry"/>
+    <atom:entry>
+        <atom:author>
+            <atom:name>admin</atom:name>
+        </atom:author>
+        <atom:id>http://chemistry.apache.org/MTM2</atom:id>
+        <atom:published>2012-07-13T06:14:04Z</atom:published>
+        <atom:title>MultifiledFolder1</atom:title>
+        <app:edited>2012-07-13T06:14:04Z</app:edited>
+        <atom:updated>2012-07-13T06:14:04Z</atom:updated>
+        <cmisra:object xmlns:ns3="http://docs.oasis-open.org/ns/cmis/messaging/200908/">
+            <cmis:properties>
+                <cmis:propertyId queryName="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Types" localName="cmis:allowedChildObjectTypeIds" propertyDefinitionId="cmis:allowedChildObjectTypeIds">
+                    <cmis:value>*</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyString queryName="cmis:path" displayName="Path" localName="cmis:path" propertyDefinitionId="cmis:path">
+                    <cmis:value>/My_Folder-0-0/MultifiledFolder1</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:lastModifiedBy" displayName="Modified By" localName="cmis:lastModifiedBy" propertyDefinitionId="cmis:lastModifiedBy">
+                    <cmis:value>admin</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:objectTypeId" displayName="Type-Id" localName="cmis:objectTypeId" propertyDefinitionId="cmis:objectTypeId">
+                    <cmis:value>cmis:folder</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyString queryName="cmis:createdBy" displayName="Created By" localName="cmis:createdBy" propertyDefinitionId="cmis:createdBy">
+                    <cmis:value>admin</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:name" displayName="Name" localName="cmis:name" propertyDefinitionId="cmis:name">
+                    <cmis:value>MultifiledFolder1</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:objectId" displayName="Object Id" localName="cmis:objectId" propertyDefinitionId="cmis:objectId">
+                    <cmis:value>136</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyDateTime queryName="cmis:creationDate" displayName="Creation Date" localName="cmis:creationDate" propertyDefinitionId="cmis:creationDate">
+                    <cmis:value>2012-07-13T06:14:04.759Z</cmis:value>
+                </cmis:propertyDateTime>
+                <cmis:propertyString queryName="cmis:changeToken" displayName="Change Token" localName="cmis:changeToken" propertyDefinitionId="cmis:changeToken">
+                    <cmis:value>1342160044759</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:baseTypeId" displayName="Base-Type-Id" localName="cmis:baseTypeId" propertyDefinitionId="cmis:baseTypeId">
+                    <cmis:value>cmis:folder</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyId queryName="cmis:parentId" displayName="Parent Id" localName="cmis:parentId" propertyDefinitionId="cmis:parentId">
+                    <cmis:value>101</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyDateTime queryName="cmis:lastModificationDate" displayName="Modification Date" localName="cmis:lastModificationDate" propertyDefinitionId="cmis:lastModificationDate">
+                    <cmis:value>2012-07-13T06:14:04.759Z</cmis:value>
+                </cmis:propertyDateTime>
+            </cmis:properties>
+            <cmis:acl>
+                <cmis:permission>
+                    <cmis:principal>
+                        <cmis:principalId>anyone</cmis:principalId>
+                    </cmis:principal>
+                    <cmis:permission>cmis:all</cmis:permission>
+                    <cmis:direct>true</cmis:direct>
+                </cmis:permission>
+            </cmis:acl>
+        </cmisra:object>
+        <cmisra:relativePathSegment>MultifiledDocument</cmisra:relativePathSegment>
+        <atom:link rel="service" href="http://www.example.com:8080/inmemory/atom/A1?repositoryId=A1" type="application/atomsvc+xml"/>
+        <atom:link rel="self" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=136" type="application/atom+xml;type=entry" cmisra:id="136"/>
+        <atom:link rel="enclosure" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=136" type="application/atom+xml;type=entry"/>
+        <atom:link rel="edit" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=136" type="application/atom+xml;type=entry"/>
+        <atom:link rel="describedby" href="http://www.example.com:8080/inmemory/atom/A1/type?id=cmis%3Afolder" type="application/atom+xml;type=entry"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="http://www.example.com:8080/inmemory/atom/A1/allowableactions?id=136" type="application/cmisallowableactions+xml"/>
+        <atom:link rel="up" href="http://www.example.com:8080/inmemory/atom/A1/parents?id=136" type="application/atom+xml;type=feed"/>
+        <atom:link rel="down" href="http://www.example.com:8080/inmemory/atom/A1/children?id=136" type="application/atom+xml;type=feed"/>
+        <atom:link rel="down" href="http://www.example.com:8080/inmemory/atom/A1/descendants?id=136" type="application/cmistree+xml"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="http://www.example.com:8080/inmemory/atom/A1/foldertree?id=136" type="application/cmistree+xml"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="http://www.example.com:8080/inmemory/atom/A1/acl?id=136" type="application/cmisacl+xml"/>
+    </atom:entry>
+    <atom:entry>
+        <atom:author>
+            <atom:name>admin</atom:name>
+        </atom:author>
+        <atom:id>http://chemistry.apache.org/MTM3</atom:id>
+        <atom:published>2012-07-13T06:14:04Z</atom:published>
+        <atom:title>MultifiledFolder2</atom:title>
+        <app:edited>2012-07-13T06:14:04Z</app:edited>
+        <atom:updated>2012-07-13T06:14:04Z</atom:updated>
+        <cmisra:object xmlns:ns3="http://docs.oasis-open.org/ns/cmis/messaging/200908/">
+            <cmis:properties>
+                <cmis:propertyId queryName="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Types" localName="cmis:allowedChildObjectTypeIds" propertyDefinitionId="cmis:allowedChildObjectTypeIds">
+                    <cmis:value>*</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyString queryName="cmis:path" displayName="Path" localName="cmis:path" propertyDefinitionId="cmis:path">
+                    <cmis:value>/My_Folder-0-0/MultifiledFolder2</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:lastModifiedBy" displayName="Modified By" localName="cmis:lastModifiedBy" propertyDefinitionId="cmis:lastModifiedBy">
+                    <cmis:value>admin</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:objectTypeId" displayName="Type-Id" localName="cmis:objectTypeId" propertyDefinitionId="cmis:objectTypeId">
+                    <cmis:value>cmis:folder</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyString queryName="cmis:createdBy" displayName="Created By" localName="cmis:createdBy" propertyDefinitionId="cmis:createdBy">
+                    <cmis:value>admin</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:name" displayName="Name" localName="cmis:name" propertyDefinitionId="cmis:name">
+                    <cmis:value>MultifiledFolder2</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:objectId" displayName="Object Id" localName="cmis:objectId" propertyDefinitionId="cmis:objectId">
+                    <cmis:value>137</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyDateTime queryName="cmis:creationDate" displayName="Creation Date" localName="cmis:creationDate" propertyDefinitionId="cmis:creationDate">
+                    <cmis:value>2012-07-13T06:14:04.769Z</cmis:value>
+                </cmis:propertyDateTime>
+                <cmis:propertyString queryName="cmis:changeToken" displayName="Change Token" localName="cmis:changeToken" propertyDefinitionId="cmis:changeToken">
+                    <cmis:value>1342160044769</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:baseTypeId" displayName="Base-Type-Id" localName="cmis:baseTypeId" propertyDefinitionId="cmis:baseTypeId">
+                    <cmis:value>cmis:folder</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyId queryName="cmis:parentId" displayName="Parent Id" localName="cmis:parentId" propertyDefinitionId="cmis:parentId">
+                    <cmis:value>101</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyDateTime queryName="cmis:lastModificationDate" displayName="Modification Date" localName="cmis:lastModificationDate" propertyDefinitionId="cmis:lastModificationDate">
+                    <cmis:value>2012-07-13T06:14:04.769Z</cmis:value>
+                </cmis:propertyDateTime>
+            </cmis:properties>
+            <cmis:acl>
+                <cmis:permission>
+                    <cmis:principal>
+                        <cmis:principalId>anyone</cmis:principalId>
+                    </cmis:principal>
+                    <cmis:permission>cmis:all</cmis:permission>
+                    <cmis:direct>true</cmis:direct>
+                </cmis:permission>
+            </cmis:acl>
+        </cmisra:object>
+        <cmisra:relativePathSegment>MultifiledDocument</cmisra:relativePathSegment>
+        <atom:link rel="service" href="http://www.example.com:8080/inmemory/atom/A1?repositoryId=A1" type="application/atomsvc+xml"/>
+        <atom:link rel="self" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=137" type="application/atom+xml;type=entry" cmisra:id="137"/>
+        <atom:link rel="enclosure" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=137" type="application/atom+xml;type=entry"/>
+        <atom:link rel="edit" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=137" type="application/atom+xml;type=entry"/>
+        <atom:link rel="describedby" href="http://www.example.com:8080/inmemory/atom/A1/type?id=cmis%3Afolder" type="application/atom+xml;type=entry"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="http://www.example.com:8080/inmemory/atom/A1/allowableactions?id=137" type="application/cmisallowableactions+xml"/>
+        <atom:link rel="up" href="http://www.example.com:8080/inmemory/atom/A1/parents?id=137" type="application/atom+xml;type=feed"/>
+        <atom:link rel="down" href="http://www.example.com:8080/inmemory/atom/A1/children?id=137" type="application/atom+xml;type=feed"/>
+        <atom:link rel="down" href="http://www.example.com:8080/inmemory/atom/A1/descendants?id=137" type="application/cmistree+xml"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="http://www.example.com:8080/inmemory/atom/A1/foldertree?id=137" type="application/cmistree+xml"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="http://www.example.com:8080/inmemory/atom/A1/acl?id=137" type="application/cmisacl+xml"/>
+    </atom:entry>
+</atom:feed>

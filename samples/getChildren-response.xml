@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:feed xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cmis="http://docs.oasis-open.org/ns/cmis/core/200908/" xmlns:cmisra="http://docs.oasis-open.org/ns/cmis/restatom/200908/" xmlns:app="http://www.w3.org/2007/app">
+    <atom:author>
+        <atom:name>unknown</atom:name>
+    </atom:author>
+    <atom:id>http://chemistry.apache.org/MTAx</atom:id>
+    <atom:title>My_Folder-0-0</atom:title>
+    <app:edited>2012-07-13T06:13:29Z</app:edited>
+    <atom:updated>2012-07-13T06:13:29Z</atom:updated>
+    <cmisra:numItems>5</cmisra:numItems>
+    <atom:link rel="service" href="http://www.example.com:8080/inmemory/atom/A1?repositoryId=A1" type="application/atomsvc+xml"/>
+    <atom:link rel="self" href="http://www.example.com:8080/inmemory/atom/A1/children?id=101" type="application/atom+xml;type=entry"/>
+    <atom:link rel="describedby" href="http://www.example.com:8080/inmemory/atom/A1/type?id=cmis%3Afolder" type="application/atom+xml;type=entry"/>
+    <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="http://www.example.com:8080/inmemory/atom/A1/allowableactions?id=101" type="application/cmisallowableactions+xml"/>
+    <atom:link rel="down" href="http://www.example.com:8080/inmemory/atom/A1/children?id=101" type="application/atom+xml;type=feed"/>
+    <atom:link rel="down" href="http://www.example.com:8080/inmemory/atom/A1/descendants?id=101" type="application/cmistree+xml"/>
+    <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="http://www.example.com:8080/inmemory/atom/A1/foldertree?id=101" type="application/cmistree+xml"/>
+    <atom:link rel="up" href="http://www.example.com:8080/inmemory/atom/A1/parents?id=101" type="application/atom+xml;type=feed"/>
+    <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="http://www.example.com:8080/inmemory/atom/A1/acl?id=101" type="application/cmisacl+xml"/>
+    <app:collection href="http://www.example.com:8080/inmemory/atom/A1/children?id=101">
+        <atom:title type="text">Folder collection</atom:title>
+        <app:accept>application/cmisatom+xml</app:accept>
+    </app:collection>
+    <atom:entry>
+        <atom:author>
+            <atom:name>unknown</atom:name>
+        </atom:author>
+        <atom:id>http://chemistry.apache.org/MTE0</atom:id>
+        <atom:published>2012-07-13T06:13:29Z</atom:published>
+        <atom:title>My_Document-1-0</atom:title>
+        <app:edited>2012-07-13T06:13:29Z</app:edited>
+        <atom:updated>2012-07-13T06:13:29Z</atom:updated>
+        <atom:content src="http://www.example.com:8080/inmemory/atom/A1/content/data.txt?id=114" type="text/plain"/>
+        <cmisra:object xmlns:ns3="http://docs.oasis-open.org/ns/cmis/messaging/200908/">
+            <cmis:properties>
+                <cmis:propertyInteger queryName="cmis:contentStreamLength" displayName="Content Length" localName="cmis:contentStreamLength" propertyDefinitionId="cmis:contentStreamLength">
+                    <cmis:value>33417</cmis:value>
+                </cmis:propertyInteger>
+                <cmis:propertyId queryName="cmis:objectTypeId" displayName="Type-Id" localName="cmis:objectTypeId" propertyDefinitionId="cmis:objectTypeId">
+                    <cmis:value>ComplexType</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyString queryName="cmis:versionSeriesCheckedOutBy" displayName="Checked Out By" localName="cmis:versionSeriesCheckedOutBy" propertyDefinitionId="cmis:versionSeriesCheckedOutBy"/>
+                <cmis:propertyHtml queryName="HtmlProp" displayName="Sample Html Property" localName="HtmlProp" propertyDefinitionId="HtmlProp"/>
+                <cmis:propertyId queryName="cmis:versionSeriesCheckedOutId" displayName="Checked Out Id" localName="cmis:versionSeriesCheckedOutId" propertyDefinitionId="cmis:versionSeriesCheckedOutId"/>
+                <cmis:propertyId queryName="IdProp" displayName="Sample Id Property" localName="IdProp" propertyDefinitionId="IdProp"/>
+                <cmis:propertyUri queryName="UriProp" displayName="Sample Uri Property" localName="UriProp" propertyDefinitionId="UriProp"/>
+                <cmis:propertyDateTime queryName="DateTimePropMV" displayName="Sample DateTime multi-value Property" localName="DateTimePropMV" propertyDefinitionId="DateTimePropMV"/>
+                <cmis:propertyId queryName="cmis:versionSeriesId" displayName="Version Series Id" localName="cmis:versionSeriesId" propertyDefinitionId="cmis:versionSeriesId"/>
+                <cmis:propertyDecimal queryName="DecimalProp" displayName="Sample Decimal Property" localName="DecimalProp" propertyDefinitionId="DecimalProp"/>
+                <cmis:propertyUri queryName="UriPropMV" displayName="Sample Uri multi-value Property" localName="UriPropMV" propertyDefinitionId="UriPropMV"/>
+                <cmis:propertyBoolean queryName="cmis:isLatestVersion" displayName="Is Latest Version" localName="cmis:isLatestVersion" propertyDefinitionId="cmis:isLatestVersion">
+                    <cmis:value>true</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyString queryName="cmis:versionLabel" displayName="Version Label" localName="cmis:versionLabel" propertyDefinitionId="cmis:versionLabel"/>
+                <cmis:propertyBoolean queryName="BooleanProp" displayName="Sample Boolean Property" localName="BooleanProp" propertyDefinitionId="BooleanProp"/>
+                <cmis:propertyBoolean queryName="cmis:isVersionSeriesCheckedOut" displayName="Checked Out" localName="cmis:isVersionSeriesCheckedOut" propertyDefinitionId="cmis:isVersionSeriesCheckedOut">
+                    <cmis:value>false</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyString queryName="cmis:lastModifiedBy" displayName="Modified By" localName="cmis:lastModifiedBy" propertyDefinitionId="cmis:lastModifiedBy">
+                    <cmis:value>unknown</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:createdBy" displayName="Created By" localName="cmis:createdBy" propertyDefinitionId="cmis:createdBy">
+                    <cmis:value>unknown</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="IdPropMV" displayName="Sample Id Html multi-value Property" localName="IdPropMV" propertyDefinitionId="IdPropMV"/>
+                <cmis:propertyString queryName="PickListProp" displayName="Sample Pick List Property" localName="PickListProp" propertyDefinitionId="PickListProp">
+                    <cmis:value>blue</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyHtml queryName="HtmlPropMV" displayName="Sample Html multi-value Property" localName="HtmlPropMV" propertyDefinitionId="HtmlPropMV"/>
+                <cmis:propertyInteger queryName="IntProp" displayName="Sample Int Property" localName="IntProp" propertyDefinitionId="IntProp"/>
+                <cmis:propertyBoolean queryName="cmis:isLatestMajorVersion" displayName="Is Latest Major Version" localName="cmis:isLatestMajorVersion" propertyDefinitionId="cmis:isLatestMajorVersion">
+                    <cmis:value>true</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyString queryName="cmis:contentStreamId" displayName="Stream Id" localName="cmis:contentStreamId" propertyDefinitionId="cmis:contentStreamId"/>
+                <cmis:propertyString queryName="cmis:name" displayName="Name" localName="cmis:name" propertyDefinitionId="cmis:name">
+                    <cmis:value>My_Document-1-0</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:contentStreamMimeType" displayName="Mime Type" localName="cmis:contentStreamMimeType" propertyDefinitionId="cmis:contentStreamMimeType">
+                    <cmis:value>text/plain</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="StringProp" displayName="Sample String Property" localName="StringProp" propertyDefinitionId="StringProp">
+                    <cmis:value>My Doc StringProperty 6</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyDateTime queryName="cmis:creationDate" displayName="Creation Date" localName="cmis:creationDate" propertyDefinitionId="cmis:creationDate">
+                    <cmis:value>2012-07-13T06:13:29.637Z</cmis:value>
+                </cmis:propertyDateTime>
+                <cmis:propertyString queryName="cmis:changeToken" displayName="Change Token" localName="cmis:changeToken" propertyDefinitionId="cmis:changeToken">
+                    <cmis:value>1342160009637</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyDecimal queryName="DecimalPropMV" displayName="Sample Decimal multi-value Property" localName="DecimalPropMV" propertyDefinitionId="DecimalPropMV"/>
+                <cmis:propertyDateTime queryName="DateTimeProp" displayName="Sample DateTime Property" localName="DateTimeProp" propertyDefinitionId="DateTimeProp"/>
+                <cmis:propertyBoolean queryName="BooleanPropMV" displayName="Sample Boolean multi-value Property" localName="BooleanPropMV" propertyDefinitionId="BooleanPropMV"/>
+                <cmis:propertyString queryName="cmis:checkinComment" displayName="Checkin Comment" localName="cmis:checkinComment" propertyDefinitionId="cmis:checkinComment"/>
+                <cmis:propertyId queryName="cmis:objectId" displayName="Object Id" localName="cmis:objectId" propertyDefinitionId="cmis:objectId">
+                    <cmis:value>114</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyBoolean queryName="cmis:isImmutable" displayName="Immutable" localName="cmis:isImmutable" propertyDefinitionId="cmis:isImmutable">
+                    <cmis:value>false</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyBoolean queryName="cmis:isMajorVersion" displayName="Is Major Version" localName="cmis:isMajorVersion" propertyDefinitionId="cmis:isMajorVersion">
+                    <cmis:value>true</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyId queryName="cmis:baseTypeId" displayName="Base-Type-Id" localName="cmis:baseTypeId" propertyDefinitionId="cmis:baseTypeId">
+                    <cmis:value>cmis:document</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyInteger queryName="IntPropMV" displayName="Sample Int multi-value Property" localName="IntPropMV" propertyDefinitionId="IntPropMV"/>
+                <cmis:propertyString queryName="cmis:contentStreamFileName" displayName="File Name" localName="cmis:contentStreamFileName" propertyDefinitionId="cmis:contentStreamFileName">
+                    <cmis:value>data.txt</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyDateTime queryName="cmis:lastModificationDate" displayName="Modification Date" localName="cmis:lastModificationDate" propertyDefinitionId="cmis:lastModificationDate">
+                    <cmis:value>2012-07-13T06:13:29.637Z</cmis:value>
+                </cmis:propertyDateTime>
+            </cmis:properties>
+            <cmis:allowableActions>
+                <cmis:canDeleteObject>true</cmis:canDeleteObject>
+                <cmis:canUpdateProperties>true</cmis:canUpdateProperties>
+                <cmis:canGetFolderTree>false</cmis:canGetFolderTree>
+                <cmis:canGetProperties>true</cmis:canGetProperties>
+                <cmis:canGetObjectRelationships>false</cmis:canGetObjectRelationships>
+                <cmis:canGetObjectParents>true</cmis:canGetObjectParents>
+                <cmis:canGetFolderParent>false</cmis:canGetFolderParent>
+                <cmis:canGetDescendants>false</cmis:canGetDescendants>
+                <cmis:canMoveObject>true</cmis:canMoveObject>
+                <cmis:canDeleteContentStream>true</cmis:canDeleteContentStream>
+                <cmis:canCheckOut>false</cmis:canCheckOut>
+                <cmis:canCancelCheckOut>false</cmis:canCancelCheckOut>
+                <cmis:canCheckIn>false</cmis:canCheckIn>
+                <cmis:canSetContentStream>true</cmis:canSetContentStream>
+                <cmis:canGetAllVersions>false</cmis:canGetAllVersions>
+                <cmis:canAddObjectToFolder>true</cmis:canAddObjectToFolder>
+                <cmis:canRemoveObjectFromFolder>true</cmis:canRemoveObjectFromFolder>
+                <cmis:canGetContentStream>true</cmis:canGetContentStream>
+                <cmis:canApplyPolicy>false</cmis:canApplyPolicy>
+                <cmis:canGetAppliedPolicies>false</cmis:canGetAppliedPolicies>
+                <cmis:canRemovePolicy>false</cmis:canRemovePolicy>
+                <cmis:canGetChildren>false</cmis:canGetChildren>
+                <cmis:canCreateDocument>false</cmis:canCreateDocument>
+                <cmis:canCreateFolder>false</cmis:canCreateFolder>
+                <cmis:canCreateRelationship>false</cmis:canCreateRelationship>
+                <cmis:canDeleteTree>false</cmis:canDeleteTree>
+                <cmis:canGetRenditions>false</cmis:canGetRenditions>
+                <cmis:canGetACL>false</cmis:canGetACL>
+                <cmis:canApplyACL>false</cmis:canApplyACL>
+            </cmis:allowableActions>
+        </cmisra:object>
+        <cmisra:pathSegment>My_Document-1-0</cmisra:pathSegment>
+        <atom:link rel="service" href="http://www.example.com:8080/inmemory/atom/A1?repositoryId=A1" type="application/atomsvc+xml"/>
+        <atom:link rel="self" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=114" type="application/atom+xml;type=entry" cmisra:id="114"/>
+        <atom:link rel="enclosure" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=114" type="application/atom+xml;type=entry"/>
+        <atom:link rel="edit" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=114" type="application/atom+xml;type=entry"/>
+        <atom:link rel="describedby" href="http://www.example.com:8080/inmemory/atom/A1/type?id=ComplexType" type="application/atom+xml;type=entry"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="http://www.example.com:8080/inmemory/atom/A1/allowableactions?id=114" type="application/cmisallowableactions+xml"/>
+        <atom:link rel="up" href="http://www.example.com:8080/inmemory/atom/A1/parents?id=114" type="application/atom+xml;type=feed"/>
+        <atom:link rel="edit-media" href="http://www.example.com:8080/inmemory/atom/A1/content?id=114" type="text/plain"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="http://www.example.com:8080/inmemory/atom/A1/acl?id=114" type="application/cmisacl+xml"/>
+    </atom:entry>
+    <atom:entry>
+        <atom:author>
+            <atom:name>unknown</atom:name>
+        </atom:author>
+        <atom:id>http://chemistry.apache.org/MTE1</atom:id>
+        <atom:published>2012-07-13T06:13:29Z</atom:published>
+        <atom:title>My_Document-1-1</atom:title>
+        <app:edited>2012-07-13T06:13:29Z</app:edited>
+        <atom:updated>2012-07-13T06:13:29Z</atom:updated>
+        <atom:content src="http://www.example.com:8080/inmemory/atom/A1/content/data.txt?id=115" type="text/plain"/>
+        <cmisra:object xmlns:ns3="http://docs.oasis-open.org/ns/cmis/messaging/200908/">
+            <cmis:properties>
+                <cmis:propertyInteger queryName="cmis:contentStreamLength" displayName="Content Length" localName="cmis:contentStreamLength" propertyDefinitionId="cmis:contentStreamLength">
+                    <cmis:value>33445</cmis:value>
+                </cmis:propertyInteger>
+                <cmis:propertyId queryName="cmis:objectTypeId" displayName="Type-Id" localName="cmis:objectTypeId" propertyDefinitionId="cmis:objectTypeId">
+                    <cmis:value>ComplexType</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyString queryName="cmis:versionSeriesCheckedOutBy" displayName="Checked Out By" localName="cmis:versionSeriesCheckedOutBy" propertyDefinitionId="cmis:versionSeriesCheckedOutBy"/>
+                <cmis:propertyHtml queryName="HtmlProp" displayName="Sample Html Property" localName="HtmlProp" propertyDefinitionId="HtmlProp"/>
+                <cmis:propertyId queryName="cmis:versionSeriesCheckedOutId" displayName="Checked Out Id" localName="cmis:versionSeriesCheckedOutId" propertyDefinitionId="cmis:versionSeriesCheckedOutId"/>
+                <cmis:propertyId queryName="IdProp" displayName="Sample Id Property" localName="IdProp" propertyDefinitionId="IdProp"/>
+                <cmis:propertyUri queryName="UriProp" displayName="Sample Uri Property" localName="UriProp" propertyDefinitionId="UriProp"/>
+                <cmis:propertyDateTime queryName="DateTimePropMV" displayName="Sample DateTime multi-value Property" localName="DateTimePropMV" propertyDefinitionId="DateTimePropMV"/>
+                <cmis:propertyId queryName="cmis:versionSeriesId" displayName="Version Series Id" localName="cmis:versionSeriesId" propertyDefinitionId="cmis:versionSeriesId"/>
+                <cmis:propertyDecimal queryName="DecimalProp" displayName="Sample Decimal Property" localName="DecimalProp" propertyDefinitionId="DecimalProp"/>
+                <cmis:propertyUri queryName="UriPropMV" displayName="Sample Uri multi-value Property" localName="UriPropMV" propertyDefinitionId="UriPropMV"/>
+                <cmis:propertyBoolean queryName="cmis:isLatestVersion" displayName="Is Latest Version" localName="cmis:isLatestVersion" propertyDefinitionId="cmis:isLatestVersion">
+                    <cmis:value>true</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyString queryName="cmis:versionLabel" displayName="Version Label" localName="cmis:versionLabel" propertyDefinitionId="cmis:versionLabel"/>
+                <cmis:propertyBoolean queryName="BooleanProp" displayName="Sample Boolean Property" localName="BooleanProp" propertyDefinitionId="BooleanProp"/>
+                <cmis:propertyBoolean queryName="cmis:isVersionSeriesCheckedOut" displayName="Checked Out" localName="cmis:isVersionSeriesCheckedOut" propertyDefinitionId="cmis:isVersionSeriesCheckedOut">
+                    <cmis:value>false</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyString queryName="cmis:lastModifiedBy" displayName="Modified By" localName="cmis:lastModifiedBy" propertyDefinitionId="cmis:lastModifiedBy">
+                    <cmis:value>unknown</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:createdBy" displayName="Created By" localName="cmis:createdBy" propertyDefinitionId="cmis:createdBy">
+                    <cmis:value>unknown</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="IdPropMV" displayName="Sample Id Html multi-value Property" localName="IdPropMV" propertyDefinitionId="IdPropMV"/>
+                <cmis:propertyString queryName="PickListProp" displayName="Sample Pick List Property" localName="PickListProp" propertyDefinitionId="PickListProp">
+                    <cmis:value>blue</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyHtml queryName="HtmlPropMV" displayName="Sample Html multi-value Property" localName="HtmlPropMV" propertyDefinitionId="HtmlPropMV"/>
+                <cmis:propertyInteger queryName="IntProp" displayName="Sample Int Property" localName="IntProp" propertyDefinitionId="IntProp"/>
+                <cmis:propertyBoolean queryName="cmis:isLatestMajorVersion" displayName="Is Latest Major Version" localName="cmis:isLatestMajorVersion" propertyDefinitionId="cmis:isLatestMajorVersion">
+                    <cmis:value>true</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyString queryName="cmis:contentStreamId" displayName="Stream Id" localName="cmis:contentStreamId" propertyDefinitionId="cmis:contentStreamId"/>
+                <cmis:propertyString queryName="cmis:name" displayName="Name" localName="cmis:name" propertyDefinitionId="cmis:name">
+                    <cmis:value>My_Document-1-1</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:contentStreamMimeType" displayName="Mime Type" localName="cmis:contentStreamMimeType" propertyDefinitionId="cmis:contentStreamMimeType">
+                    <cmis:value>text/plain</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="StringProp" displayName="Sample String Property" localName="StringProp" propertyDefinitionId="StringProp">
+                    <cmis:value>My Doc StringProperty 7</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyDateTime queryName="cmis:creationDate" displayName="Creation Date" localName="cmis:creationDate" propertyDefinitionId="cmis:creationDate">
+                    <cmis:value>2012-07-13T06:13:29.674Z</cmis:value>
+                </cmis:propertyDateTime>
+                <cmis:propertyString queryName="cmis:changeToken" displayName="Change Token" localName="cmis:changeToken" propertyDefinitionId="cmis:changeToken">
+                    <cmis:value>1342160009674</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyDecimal queryName="DecimalPropMV" displayName="Sample Decimal multi-value Property" localName="DecimalPropMV" propertyDefinitionId="DecimalPropMV"/>
+                <cmis:propertyDateTime queryName="DateTimeProp" displayName="Sample DateTime Property" localName="DateTimeProp" propertyDefinitionId="DateTimeProp"/>
+                <cmis:propertyBoolean queryName="BooleanPropMV" displayName="Sample Boolean multi-value Property" localName="BooleanPropMV" propertyDefinitionId="BooleanPropMV"/>
+                <cmis:propertyString queryName="cmis:checkinComment" displayName="Checkin Comment" localName="cmis:checkinComment" propertyDefinitionId="cmis:checkinComment"/>
+                <cmis:propertyId queryName="cmis:objectId" displayName="Object Id" localName="cmis:objectId" propertyDefinitionId="cmis:objectId">
+                    <cmis:value>115</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyBoolean queryName="cmis:isImmutable" displayName="Immutable" localName="cmis:isImmutable" propertyDefinitionId="cmis:isImmutable">
+                    <cmis:value>false</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyBoolean queryName="cmis:isMajorVersion" displayName="Is Major Version" localName="cmis:isMajorVersion" propertyDefinitionId="cmis:isMajorVersion">
+                    <cmis:value>true</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyId queryName="cmis:baseTypeId" displayName="Base-Type-Id" localName="cmis:baseTypeId" propertyDefinitionId="cmis:baseTypeId">
+                    <cmis:value>cmis:document</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyInteger queryName="IntPropMV" displayName="Sample Int multi-value Property" localName="IntPropMV" propertyDefinitionId="IntPropMV"/>
+                <cmis:propertyString queryName="cmis:contentStreamFileName" displayName="File Name" localName="cmis:contentStreamFileName" propertyDefinitionId="cmis:contentStreamFileName">
+                    <cmis:value>data.txt</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyDateTime queryName="cmis:lastModificationDate" displayName="Modification Date" localName="cmis:lastModificationDate" propertyDefinitionId="cmis:lastModificationDate">
+                    <cmis:value>2012-07-13T06:13:29.674Z</cmis:value>
+                </cmis:propertyDateTime>
+            </cmis:properties>
+            <cmis:allowableActions>
+                <cmis:canDeleteObject>true</cmis:canDeleteObject>
+                <cmis:canUpdateProperties>true</cmis:canUpdateProperties>
+                <cmis:canGetFolderTree>false</cmis:canGetFolderTree>
+                <cmis:canGetProperties>true</cmis:canGetProperties>
+                <cmis:canGetObjectRelationships>false</cmis:canGetObjectRelationships>
+                <cmis:canGetObjectParents>true</cmis:canGetObjectParents>
+                <cmis:canGetFolderParent>false</cmis:canGetFolderParent>
+                <cmis:canGetDescendants>false</cmis:canGetDescendants>
+                <cmis:canMoveObject>true</cmis:canMoveObject>
+                <cmis:canDeleteContentStream>true</cmis:canDeleteContentStream>
+                <cmis:canCheckOut>false</cmis:canCheckOut>
+                <cmis:canCancelCheckOut>false</cmis:canCancelCheckOut>
+                <cmis:canCheckIn>false</cmis:canCheckIn>
+                <cmis:canSetContentStream>true</cmis:canSetContentStream>
+                <cmis:canGetAllVersions>false</cmis:canGetAllVersions>
+                <cmis:canAddObjectToFolder>true</cmis:canAddObjectToFolder>
+                <cmis:canRemoveObjectFromFolder>true</cmis:canRemoveObjectFromFolder>
+                <cmis:canGetContentStream>true</cmis:canGetContentStream>
+                <cmis:canApplyPolicy>false</cmis:canApplyPolicy>
+                <cmis:canGetAppliedPolicies>false</cmis:canGetAppliedPolicies>
+                <cmis:canRemovePolicy>false</cmis:canRemovePolicy>
+                <cmis:canGetChildren>false</cmis:canGetChildren>
+                <cmis:canCreateDocument>false</cmis:canCreateDocument>
+                <cmis:canCreateFolder>false</cmis:canCreateFolder>
+                <cmis:canCreateRelationship>false</cmis:canCreateRelationship>
+                <cmis:canDeleteTree>false</cmis:canDeleteTree>
+                <cmis:canGetRenditions>false</cmis:canGetRenditions>
+                <cmis:canGetACL>false</cmis:canGetACL>
+                <cmis:canApplyACL>false</cmis:canApplyACL>
+            </cmis:allowableActions>
+        </cmisra:object>
+        <cmisra:pathSegment>My_Document-1-1</cmisra:pathSegment>
+        <atom:link rel="service" href="http://www.example.com:8080/inmemory/atom/A1?repositoryId=A1" type="application/atomsvc+xml"/>
+        <atom:link rel="self" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=115" type="application/atom+xml;type=entry" cmisra:id="115"/>
+        <atom:link rel="enclosure" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=115" type="application/atom+xml;type=entry"/>
+        <atom:link rel="edit" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=115" type="application/atom+xml;type=entry"/>
+        <atom:link rel="describedby" href="http://www.example.com:8080/inmemory/atom/A1/type?id=ComplexType" type="application/atom+xml;type=entry"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="http://www.example.com:8080/inmemory/atom/A1/allowableactions?id=115" type="application/cmisallowableactions+xml"/>
+        <atom:link rel="up" href="http://www.example.com:8080/inmemory/atom/A1/parents?id=115" type="application/atom+xml;type=feed"/>
+        <atom:link rel="edit-media" href="http://www.example.com:8080/inmemory/atom/A1/content?id=115" type="text/plain"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="http://www.example.com:8080/inmemory/atom/A1/acl?id=115" type="application/cmisacl+xml"/>
+    </atom:entry>
+    <atom:entry>
+        <atom:author>
+            <atom:name>unknown</atom:name>
+        </atom:author>
+        <atom:id>http://chemistry.apache.org/MTE2</atom:id>
+        <atom:published>2012-07-13T06:13:29Z</atom:published>
+        <atom:title>My_Document-1-2</atom:title>
+        <app:edited>2012-07-13T06:13:29Z</app:edited>
+        <atom:updated>2012-07-13T06:13:29Z</atom:updated>
+        <atom:content src="http://www.example.com:8080/inmemory/atom/A1/content/data.txt?id=116" type="text/plain"/>
+        <cmisra:object xmlns:ns3="http://docs.oasis-open.org/ns/cmis/messaging/200908/">
+            <cmis:properties>
+                <cmis:propertyInteger queryName="cmis:contentStreamLength" displayName="Content Length" localName="cmis:contentStreamLength" propertyDefinitionId="cmis:contentStreamLength">
+                    <cmis:value>33522</cmis:value>
+                </cmis:propertyInteger>
+                <cmis:propertyId queryName="cmis:objectTypeId" displayName="Type-Id" localName="cmis:objectTypeId" propertyDefinitionId="cmis:objectTypeId">
+                    <cmis:value>ComplexType</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyString queryName="cmis:versionSeriesCheckedOutBy" displayName="Checked Out By" localName="cmis:versionSeriesCheckedOutBy" propertyDefinitionId="cmis:versionSeriesCheckedOutBy"/>
+                <cmis:propertyHtml queryName="HtmlProp" displayName="Sample Html Property" localName="HtmlProp" propertyDefinitionId="HtmlProp"/>
+                <cmis:propertyId queryName="cmis:versionSeriesCheckedOutId" displayName="Checked Out Id" localName="cmis:versionSeriesCheckedOutId" propertyDefinitionId="cmis:versionSeriesCheckedOutId"/>
+                <cmis:propertyId queryName="IdProp" displayName="Sample Id Property" localName="IdProp" propertyDefinitionId="IdProp"/>
+                <cmis:propertyUri queryName="UriProp" displayName="Sample Uri Property" localName="UriProp" propertyDefinitionId="UriProp"/>
+                <cmis:propertyDateTime queryName="DateTimePropMV" displayName="Sample DateTime multi-value Property" localName="DateTimePropMV" propertyDefinitionId="DateTimePropMV"/>
+                <cmis:propertyId queryName="cmis:versionSeriesId" displayName="Version Series Id" localName="cmis:versionSeriesId" propertyDefinitionId="cmis:versionSeriesId"/>
+                <cmis:propertyDecimal queryName="DecimalProp" displayName="Sample Decimal Property" localName="DecimalProp" propertyDefinitionId="DecimalProp"/>
+                <cmis:propertyUri queryName="UriPropMV" displayName="Sample Uri multi-value Property" localName="UriPropMV" propertyDefinitionId="UriPropMV"/>
+                <cmis:propertyBoolean queryName="cmis:isLatestVersion" displayName="Is Latest Version" localName="cmis:isLatestVersion" propertyDefinitionId="cmis:isLatestVersion">
+                    <cmis:value>true</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyString queryName="cmis:versionLabel" displayName="Version Label" localName="cmis:versionLabel" propertyDefinitionId="cmis:versionLabel"/>
+                <cmis:propertyBoolean queryName="BooleanProp" displayName="Sample Boolean Property" localName="BooleanProp" propertyDefinitionId="BooleanProp"/>
+                <cmis:propertyBoolean queryName="cmis:isVersionSeriesCheckedOut" displayName="Checked Out" localName="cmis:isVersionSeriesCheckedOut" propertyDefinitionId="cmis:isVersionSeriesCheckedOut">
+                    <cmis:value>false</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyString queryName="cmis:lastModifiedBy" displayName="Modified By" localName="cmis:lastModifiedBy" propertyDefinitionId="cmis:lastModifiedBy">
+                    <cmis:value>unknown</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:createdBy" displayName="Created By" localName="cmis:createdBy" propertyDefinitionId="cmis:createdBy">
+                    <cmis:value>unknown</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="IdPropMV" displayName="Sample Id Html multi-value Property" localName="IdPropMV" propertyDefinitionId="IdPropMV"/>
+                <cmis:propertyString queryName="PickListProp" displayName="Sample Pick List Property" localName="PickListProp" propertyDefinitionId="PickListProp">
+                    <cmis:value>blue</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyHtml queryName="HtmlPropMV" displayName="Sample Html multi-value Property" localName="HtmlPropMV" propertyDefinitionId="HtmlPropMV"/>
+                <cmis:propertyInteger queryName="IntProp" displayName="Sample Int Property" localName="IntProp" propertyDefinitionId="IntProp"/>
+                <cmis:propertyBoolean queryName="cmis:isLatestMajorVersion" displayName="Is Latest Major Version" localName="cmis:isLatestMajorVersion" propertyDefinitionId="cmis:isLatestMajorVersion">
+                    <cmis:value>true</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyString queryName="cmis:contentStreamId" displayName="Stream Id" localName="cmis:contentStreamId" propertyDefinitionId="cmis:contentStreamId"/>
+                <cmis:propertyString queryName="cmis:name" displayName="Name" localName="cmis:name" propertyDefinitionId="cmis:name">
+                    <cmis:value>My_Document-1-2</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:contentStreamMimeType" displayName="Mime Type" localName="cmis:contentStreamMimeType" propertyDefinitionId="cmis:contentStreamMimeType">
+                    <cmis:value>text/plain</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="StringProp" displayName="Sample String Property" localName="StringProp" propertyDefinitionId="StringProp">
+                    <cmis:value>My Doc StringProperty 8</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyDateTime queryName="cmis:creationDate" displayName="Creation Date" localName="cmis:creationDate" propertyDefinitionId="cmis:creationDate">
+                    <cmis:value>2012-07-13T06:13:29.713Z</cmis:value>
+                </cmis:propertyDateTime>
+                <cmis:propertyString queryName="cmis:changeToken" displayName="Change Token" localName="cmis:changeToken" propertyDefinitionId="cmis:changeToken">
+                    <cmis:value>1342160009713</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyDecimal queryName="DecimalPropMV" displayName="Sample Decimal multi-value Property" localName="DecimalPropMV" propertyDefinitionId="DecimalPropMV"/>
+                <cmis:propertyDateTime queryName="DateTimeProp" displayName="Sample DateTime Property" localName="DateTimeProp" propertyDefinitionId="DateTimeProp"/>
+                <cmis:propertyBoolean queryName="BooleanPropMV" displayName="Sample Boolean multi-value Property" localName="BooleanPropMV" propertyDefinitionId="BooleanPropMV"/>
+                <cmis:propertyString queryName="cmis:checkinComment" displayName="Checkin Comment" localName="cmis:checkinComment" propertyDefinitionId="cmis:checkinComment"/>
+                <cmis:propertyId queryName="cmis:objectId" displayName="Object Id" localName="cmis:objectId" propertyDefinitionId="cmis:objectId">
+                    <cmis:value>116</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyBoolean queryName="cmis:isImmutable" displayName="Immutable" localName="cmis:isImmutable" propertyDefinitionId="cmis:isImmutable">
+                    <cmis:value>false</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyBoolean queryName="cmis:isMajorVersion" displayName="Is Major Version" localName="cmis:isMajorVersion" propertyDefinitionId="cmis:isMajorVersion">
+                    <cmis:value>true</cmis:value>
+                </cmis:propertyBoolean>
+                <cmis:propertyId queryName="cmis:baseTypeId" displayName="Base-Type-Id" localName="cmis:baseTypeId" propertyDefinitionId="cmis:baseTypeId">
+                    <cmis:value>cmis:document</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyInteger queryName="IntPropMV" displayName="Sample Int multi-value Property" localName="IntPropMV" propertyDefinitionId="IntPropMV"/>
+                <cmis:propertyString queryName="cmis:contentStreamFileName" displayName="File Name" localName="cmis:contentStreamFileName" propertyDefinitionId="cmis:contentStreamFileName">
+                    <cmis:value>data.txt</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyDateTime queryName="cmis:lastModificationDate" displayName="Modification Date" localName="cmis:lastModificationDate" propertyDefinitionId="cmis:lastModificationDate">
+                    <cmis:value>2012-07-13T06:13:29.713Z</cmis:value>
+                </cmis:propertyDateTime>
+            </cmis:properties>
+            <cmis:allowableActions>
+                <cmis:canDeleteObject>true</cmis:canDeleteObject>
+                <cmis:canUpdateProperties>true</cmis:canUpdateProperties>
+                <cmis:canGetFolderTree>false</cmis:canGetFolderTree>
+                <cmis:canGetProperties>true</cmis:canGetProperties>
+                <cmis:canGetObjectRelationships>false</cmis:canGetObjectRelationships>
+                <cmis:canGetObjectParents>true</cmis:canGetObjectParents>
+                <cmis:canGetFolderParent>false</cmis:canGetFolderParent>
+                <cmis:canGetDescendants>false</cmis:canGetDescendants>
+                <cmis:canMoveObject>true</cmis:canMoveObject>
+                <cmis:canDeleteContentStream>true</cmis:canDeleteContentStream>
+                <cmis:canCheckOut>false</cmis:canCheckOut>
+                <cmis:canCancelCheckOut>false</cmis:canCancelCheckOut>
+                <cmis:canCheckIn>false</cmis:canCheckIn>
+                <cmis:canSetContentStream>true</cmis:canSetContentStream>
+                <cmis:canGetAllVersions>false</cmis:canGetAllVersions>
+                <cmis:canAddObjectToFolder>true</cmis:canAddObjectToFolder>
+                <cmis:canRemoveObjectFromFolder>true</cmis:canRemoveObjectFromFolder>
+                <cmis:canGetContentStream>true</cmis:canGetContentStream>
+                <cmis:canApplyPolicy>false</cmis:canApplyPolicy>
+                <cmis:canGetAppliedPolicies>false</cmis:canGetAppliedPolicies>
+                <cmis:canRemovePolicy>false</cmis:canRemovePolicy>
+                <cmis:canGetChildren>false</cmis:canGetChildren>
+                <cmis:canCreateDocument>false</cmis:canCreateDocument>
+                <cmis:canCreateFolder>false</cmis:canCreateFolder>
+                <cmis:canCreateRelationship>false</cmis:canCreateRelationship>
+                <cmis:canDeleteTree>false</cmis:canDeleteTree>
+                <cmis:canGetRenditions>false</cmis:canGetRenditions>
+                <cmis:canGetACL>false</cmis:canGetACL>
+                <cmis:canApplyACL>false</cmis:canApplyACL>
+            </cmis:allowableActions>
+        </cmisra:object>
+        <cmisra:pathSegment>My_Document-1-2</cmisra:pathSegment>
+        <atom:link rel="service" href="http://www.example.com:8080/inmemory/atom/A1?repositoryId=A1" type="application/atomsvc+xml"/>
+        <atom:link rel="self" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=116" type="application/atom+xml;type=entry" cmisra:id="116"/>
+        <atom:link rel="enclosure" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=116" type="application/atom+xml;type=entry"/>
+        <atom:link rel="edit" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=116" type="application/atom+xml;type=entry"/>
+        <atom:link rel="describedby" href="http://www.example.com:8080/inmemory/atom/A1/type?id=ComplexType" type="application/atom+xml;type=entry"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="http://www.example.com:8080/inmemory/atom/A1/allowableactions?id=116" type="application/cmisallowableactions+xml"/>
+        <atom:link rel="up" href="http://www.example.com:8080/inmemory/atom/A1/parents?id=116" type="application/atom+xml;type=feed"/>
+        <atom:link rel="edit-media" href="http://www.example.com:8080/inmemory/atom/A1/content?id=116" type="text/plain"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="http://www.example.com:8080/inmemory/atom/A1/acl?id=116" type="application/cmisacl+xml"/>
+    </atom:entry>
+    <atom:entry>
+        <atom:author>
+            <atom:name>unknown</atom:name>
+        </atom:author>
+        <atom:id>http://chemistry.apache.org/MTAy</atom:id>
+        <atom:published>2012-07-13T06:13:29Z</atom:published>
+        <atom:title>My_Folder-1-0</atom:title>
+        <app:edited>2012-07-13T06:13:29Z</app:edited>
+        <atom:updated>2012-07-13T06:13:29Z</atom:updated>
+        <cmisra:object xmlns:ns3="http://docs.oasis-open.org/ns/cmis/messaging/200908/">
+            <cmis:properties>
+                <cmis:propertyId queryName="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Types" localName="cmis:allowedChildObjectTypeIds" propertyDefinitionId="cmis:allowedChildObjectTypeIds">
+                    <cmis:value>*</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyString queryName="cmis:path" displayName="Path" localName="cmis:path" propertyDefinitionId="cmis:path">
+                    <cmis:value>/My_Folder-0-0/My_Folder-1-0</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:lastModifiedBy" displayName="Modified By" localName="cmis:lastModifiedBy" propertyDefinitionId="cmis:lastModifiedBy">
+                    <cmis:value>unknown</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:objectTypeId" displayName="Type-Id" localName="cmis:objectTypeId" propertyDefinitionId="cmis:objectTypeId">
+                    <cmis:value>cmis:folder</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyString queryName="cmis:createdBy" displayName="Created By" localName="cmis:createdBy" propertyDefinitionId="cmis:createdBy">
+                    <cmis:value>unknown</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:name" displayName="Name" localName="cmis:name" propertyDefinitionId="cmis:name">
+                    <cmis:value>My_Folder-1-0</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:objectId" displayName="Object Id" localName="cmis:objectId" propertyDefinitionId="cmis:objectId">
+                    <cmis:value>102</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyDateTime queryName="cmis:creationDate" displayName="Creation Date" localName="cmis:creationDate" propertyDefinitionId="cmis:creationDate">
+                    <cmis:value>2012-07-13T06:13:29.207Z</cmis:value>
+                </cmis:propertyDateTime>
+                <cmis:propertyString queryName="cmis:changeToken" displayName="Change Token" localName="cmis:changeToken" propertyDefinitionId="cmis:changeToken">
+                    <cmis:value>1342160009207</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:baseTypeId" displayName="Base-Type-Id" localName="cmis:baseTypeId" propertyDefinitionId="cmis:baseTypeId">
+                    <cmis:value>cmis:folder</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyId queryName="cmis:parentId" displayName="Parent Id" localName="cmis:parentId" propertyDefinitionId="cmis:parentId">
+                    <cmis:value>101</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyDateTime queryName="cmis:lastModificationDate" displayName="Modification Date" localName="cmis:lastModificationDate" propertyDefinitionId="cmis:lastModificationDate">
+                    <cmis:value>2012-07-13T06:13:29.207Z</cmis:value>
+                </cmis:propertyDateTime>
+            </cmis:properties>
+            <cmis:allowableActions>
+                <cmis:canDeleteObject>true</cmis:canDeleteObject>
+                <cmis:canUpdateProperties>true</cmis:canUpdateProperties>
+                <cmis:canGetFolderTree>true</cmis:canGetFolderTree>
+                <cmis:canGetProperties>true</cmis:canGetProperties>
+                <cmis:canGetObjectRelationships>false</cmis:canGetObjectRelationships>
+                <cmis:canGetObjectParents>true</cmis:canGetObjectParents>
+                <cmis:canGetFolderParent>true</cmis:canGetFolderParent>
+                <cmis:canGetDescendants>true</cmis:canGetDescendants>
+                <cmis:canMoveObject>true</cmis:canMoveObject>
+                <cmis:canDeleteContentStream>false</cmis:canDeleteContentStream>
+                <cmis:canCheckOut>false</cmis:canCheckOut>
+                <cmis:canCancelCheckOut>false</cmis:canCancelCheckOut>
+                <cmis:canCheckIn>false</cmis:canCheckIn>
+                <cmis:canSetContentStream>false</cmis:canSetContentStream>
+                <cmis:canGetAllVersions>false</cmis:canGetAllVersions>
+                <cmis:canAddObjectToFolder>false</cmis:canAddObjectToFolder>
+                <cmis:canRemoveObjectFromFolder>false</cmis:canRemoveObjectFromFolder>
+                <cmis:canGetContentStream>false</cmis:canGetContentStream>
+                <cmis:canApplyPolicy>false</cmis:canApplyPolicy>
+                <cmis:canGetAppliedPolicies>false</cmis:canGetAppliedPolicies>
+                <cmis:canRemovePolicy>false</cmis:canRemovePolicy>
+                <cmis:canGetChildren>true</cmis:canGetChildren>
+                <cmis:canCreateDocument>true</cmis:canCreateDocument>
+                <cmis:canCreateFolder>true</cmis:canCreateFolder>
+                <cmis:canCreateRelationship>false</cmis:canCreateRelationship>
+                <cmis:canDeleteTree>true</cmis:canDeleteTree>
+                <cmis:canGetRenditions>false</cmis:canGetRenditions>
+                <cmis:canGetACL>false</cmis:canGetACL>
+                <cmis:canApplyACL>false</cmis:canApplyACL>
+            </cmis:allowableActions>
+        </cmisra:object>
+        <cmisra:pathSegment>My_Folder-1-0</cmisra:pathSegment>
+        <atom:link rel="service" href="http://www.example.com:8080/inmemory/atom/A1?repositoryId=A1" type="application/atomsvc+xml"/>
+        <atom:link rel="self" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=102" type="application/atom+xml;type=entry" cmisra:id="102"/>
+        <atom:link rel="enclosure" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=102" type="application/atom+xml;type=entry"/>
+        <atom:link rel="edit" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=102" type="application/atom+xml;type=entry"/>
+        <atom:link rel="describedby" href="http://www.example.com:8080/inmemory/atom/A1/type?id=cmis%3Afolder" type="application/atom+xml;type=entry"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="http://www.example.com:8080/inmemory/atom/A1/allowableactions?id=102" type="application/cmisallowableactions+xml"/>
+        <atom:link rel="up" href="http://www.example.com:8080/inmemory/atom/A1/parents?id=102" type="application/atom+xml;type=feed"/>
+        <atom:link rel="down" href="http://www.example.com:8080/inmemory/atom/A1/children?id=102" type="application/atom+xml;type=feed"/>
+        <atom:link rel="down" href="http://www.example.com:8080/inmemory/atom/A1/descendants?id=102" type="application/cmistree+xml"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="http://www.example.com:8080/inmemory/atom/A1/foldertree?id=102" type="application/cmistree+xml"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="http://www.example.com:8080/inmemory/atom/A1/acl?id=102" type="application/cmisacl+xml"/>
+    </atom:entry>
+    <atom:entry>
+        <atom:author>
+            <atom:name>unknown</atom:name>
+        </atom:author>
+        <atom:id>http://chemistry.apache.org/MTA4</atom:id>
+        <atom:published>2012-07-13T06:13:29Z</atom:published>
+        <atom:title>My_Folder-1-1</atom:title>
+        <app:edited>2012-07-13T06:13:29Z</app:edited>
+        <atom:updated>2012-07-13T06:13:29Z</atom:updated>
+        <cmisra:object xmlns:ns3="http://docs.oasis-open.org/ns/cmis/messaging/200908/">
+            <cmis:properties>
+                <cmis:propertyId queryName="cmis:allowedChildObjectTypeIds" displayName="Allowed Child Types" localName="cmis:allowedChildObjectTypeIds" propertyDefinitionId="cmis:allowedChildObjectTypeIds">
+                    <cmis:value>*</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyString queryName="cmis:path" displayName="Path" localName="cmis:path" propertyDefinitionId="cmis:path">
+                    <cmis:value>/My_Folder-0-0/My_Folder-1-1</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:lastModifiedBy" displayName="Modified By" localName="cmis:lastModifiedBy" propertyDefinitionId="cmis:lastModifiedBy">
+                    <cmis:value>unknown</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:objectTypeId" displayName="Type-Id" localName="cmis:objectTypeId" propertyDefinitionId="cmis:objectTypeId">
+                    <cmis:value>cmis:folder</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyString queryName="cmis:createdBy" displayName="Created By" localName="cmis:createdBy" propertyDefinitionId="cmis:createdBy">
+                    <cmis:value>unknown</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyString queryName="cmis:name" displayName="Name" localName="cmis:name" propertyDefinitionId="cmis:name">
+                    <cmis:value>My_Folder-1-1</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:objectId" displayName="Object Id" localName="cmis:objectId" propertyDefinitionId="cmis:objectId">
+                    <cmis:value>108</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyDateTime queryName="cmis:creationDate" displayName="Creation Date" localName="cmis:creationDate" propertyDefinitionId="cmis:creationDate">
+                    <cmis:value>2012-07-13T06:13:29.476Z</cmis:value>
+                </cmis:propertyDateTime>
+                <cmis:propertyString queryName="cmis:changeToken" displayName="Change Token" localName="cmis:changeToken" propertyDefinitionId="cmis:changeToken">
+                    <cmis:value>1342160009476</cmis:value>
+                </cmis:propertyString>
+                <cmis:propertyId queryName="cmis:baseTypeId" displayName="Base-Type-Id" localName="cmis:baseTypeId" propertyDefinitionId="cmis:baseTypeId">
+                    <cmis:value>cmis:folder</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyId queryName="cmis:parentId" displayName="Parent Id" localName="cmis:parentId" propertyDefinitionId="cmis:parentId">
+                    <cmis:value>101</cmis:value>
+                </cmis:propertyId>
+                <cmis:propertyDateTime queryName="cmis:lastModificationDate" displayName="Modification Date" localName="cmis:lastModificationDate" propertyDefinitionId="cmis:lastModificationDate">
+                    <cmis:value>2012-07-13T06:13:29.476Z</cmis:value>
+                </cmis:propertyDateTime>
+            </cmis:properties>
+            <cmis:allowableActions>
+                <cmis:canDeleteObject>true</cmis:canDeleteObject>
+                <cmis:canUpdateProperties>true</cmis:canUpdateProperties>
+                <cmis:canGetFolderTree>true</cmis:canGetFolderTree>
+                <cmis:canGetProperties>true</cmis:canGetProperties>
+                <cmis:canGetObjectRelationships>false</cmis:canGetObjectRelationships>
+                <cmis:canGetObjectParents>true</cmis:canGetObjectParents>
+                <cmis:canGetFolderParent>true</cmis:canGetFolderParent>
+                <cmis:canGetDescendants>true</cmis:canGetDescendants>
+                <cmis:canMoveObject>true</cmis:canMoveObject>
+                <cmis:canDeleteContentStream>false</cmis:canDeleteContentStream>
+                <cmis:canCheckOut>false</cmis:canCheckOut>
+                <cmis:canCancelCheckOut>false</cmis:canCancelCheckOut>
+                <cmis:canCheckIn>false</cmis:canCheckIn>
+                <cmis:canSetContentStream>false</cmis:canSetContentStream>
+                <cmis:canGetAllVersions>false</cmis:canGetAllVersions>
+                <cmis:canAddObjectToFolder>false</cmis:canAddObjectToFolder>
+                <cmis:canRemoveObjectFromFolder>false</cmis:canRemoveObjectFromFolder>
+                <cmis:canGetContentStream>false</cmis:canGetContentStream>
+                <cmis:canApplyPolicy>false</cmis:canApplyPolicy>
+                <cmis:canGetAppliedPolicies>false</cmis:canGetAppliedPolicies>
+                <cmis:canRemovePolicy>false</cmis:canRemovePolicy>
+                <cmis:canGetChildren>true</cmis:canGetChildren>
+                <cmis:canCreateDocument>true</cmis:canCreateDocument>
+                <cmis:canCreateFolder>true</cmis:canCreateFolder>
+                <cmis:canCreateRelationship>false</cmis:canCreateRelationship>
+                <cmis:canDeleteTree>true</cmis:canDeleteTree>
+                <cmis:canGetRenditions>false</cmis:canGetRenditions>
+                <cmis:canGetACL>false</cmis:canGetACL>
+                <cmis:canApplyACL>false</cmis:canApplyACL>
+            </cmis:allowableActions>
+        </cmisra:object>
+        <cmisra:pathSegment>My_Folder-1-1</cmisra:pathSegment>
+        <atom:link rel="service" href="http://www.example.com:8080/inmemory/atom/A1?repositoryId=A1" type="application/atomsvc+xml"/>
+        <atom:link rel="self" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=108" type="application/atom+xml;type=entry" cmisra:id="108"/>
+        <atom:link rel="enclosure" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=108" type="application/atom+xml;type=entry"/>
+        <atom:link rel="edit" href="http://www.example.com:8080/inmemory/atom/A1/entry?id=108" type="application/atom+xml;type=entry"/>
+        <atom:link rel="describedby" href="http://www.example.com:8080/inmemory/atom/A1/type?id=cmis%3Afolder" type="application/atom+xml;type=entry"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/allowableactions" href="http://www.example.com:8080/inmemory/atom/A1/allowableactions?id=108" type="application/cmisallowableactions+xml"/>
+        <atom:link rel="up" href="http://www.example.com:8080/inmemory/atom/A1/parents?id=108" type="application/atom+xml;type=feed"/>
+        <atom:link rel="down" href="http://www.example.com:8080/inmemory/atom/A1/children?id=108" type="application/atom+xml;type=feed"/>
+        <atom:link rel="down" href="http://www.example.com:8080/inmemory/atom/A1/descendants?id=108" type="application/cmistree+xml"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/foldertree" href="http://www.example.com:8080/inmemory/atom/A1/foldertree?id=108" type="application/cmistree+xml"/>
+        <atom:link rel="http://docs.oasis-open.org/ns/cmis/link/200908/acl" href="http://www.example.com:8080/inmemory/atom/A1/acl?id=108" type="application/cmisacl+xml"/>
+    </atom:entry>
+</atom:feed>

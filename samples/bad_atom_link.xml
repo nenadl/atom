@@ -1,0 +1,83 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+        <name>John Doe</name>
+        <uri>http://john.doe</uri>
+        <email>john@test.com</email>
+    </author>
+    <author>
+        <name>Jane Doe</name>
+        <uri>http://jane.doe</uri>
+        <email>jane@test.com</email>
+        <height xmlns="custom">6'2"</height>
+    </author>
+    <category term="testcat" scheme="http://testcat.john.doe" label="Test Category"></category>
+    <category term="testcat2" scheme="http://testcat2.john.doe" label="Test Category 2"></category>
+    <contributor>
+        <name>Contrib1</name>
+        <uri>http://contrib1</uri>
+        <email>contrib1@test.com</email>
+    </contributor>
+    <contributor>
+        <name>Contrib2</name>
+        <uri>http://contrib2</uri>
+        <email>contrib2@test.com</email>
+    </contributor>
+    <generator uri="http://github.com/test/atom" version="1.0">Golang ATOM package</generator>
+    <icon>http://icon.test.com</icon>
+    <id>http://www.test.com/blog</id>
+    <link href="http://www.test.com/blog2" rel="alternate" type="application/xml" hreflang="de" title="German feed" length="10"></link>
+    <link href="http://www.test.com/blog" rel="alternate"></link>
+    <logo>http://www.test.com/logo</logo>
+    <rights>Test Corp TM</rights>
+    <subtitle>Test subtitle</subtitle>
+    <title>Test feed</title>
+    <updated>2006-11-04T09:11:03-08:00</updated>
+    <entry xmlns="http://www.w3.org/2005/Atom">
+        <author>
+            <name>John Doe</name>
+            <uri>http://john.doe</uri>
+            <email>john@test.com</email>
+        </author>
+        <category term="testcat" scheme="http://testcat.john.doe" label="Test Category"></category>
+        <content type="text">This is some test content!!!!</content>
+        <contributor>
+            <name>Contrib1</name>
+            <uri>http://contrib1</uri>
+            <email>contrib1@test.com</email>
+        </contributor>
+        <id>http://www.test.com/blog/1</id>
+        <link href="http://www.test.com/blog/1"></link>
+        <published>2006-11-05T12:00:00-08:00</published>
+        <rights>Test Corp TM</rights>
+        <summary type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Summary1</div>
+        </summary>
+        <title>Title1</title>
+        <updated>2006-11-06T09:09:13-08:00</updated>
+        <popularity xmlns="custom">High</popularity>
+    </entry>
+    <entry xmlns="http://www.w3.org/2005/Atom">
+        <author>
+            <name>John Doe</name>
+            <uri>http://john.doe</uri>
+            <email>john@test.com</email>
+        </author>
+        <category term="testcat2" scheme="http://testcat2.john.doe" label="Test Category 2"></category>
+        <content type="text">This is some test content 2!!!!</content>
+        <contributor>
+            <name>Contrib1</name>
+            <uri>http://contrib2</uri>
+            <email>contrib2@test.com</email>
+        </contributor>
+        <id>http://www.test.com/blog/2</id>
+        <link href="http://www.test.com/blog/2"></link>
+        <published>2006-11-05T12:00:01-08:00</published>
+        <rights>Test Corp TM</rights>
+        <summary type="html">
+            <div xmlns="http://www.w3.org/1999/xhtml">Summary2</div>
+        </summary>
+        <title>Title2</title>
+        <updated>2006-11-06T09:09:15-08:00</updated>
+    </entry>
+    <color xmlns="custom">red</color>
+</feed>

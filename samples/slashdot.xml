@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/atom10full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://rss.slashdot.org/~d/styles/itemcontent.css"?>
+<feed xml:lang="en-us" xmlns="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/">
+	<title>Slashdot</title>
+	<id>http://slashdot.org/</id>
+	<link href="http://slashdot.org/"/>
+	<subtitle>News for nerds, stuff that matters</subtitle>
+	<rights>Copyright 1997-2015, DHI Group Inc. All Rights Reserved. Slashdot is a DHI service</rights>
+	<updated>2015-08-25T04:20:25+00:00</updated>
+	<author>
+		<name>Dice</name>
+		<email>help@slashdot.org</email>
+	</author>
+	<category term="Technology"/>
+	<syn:updatePeriod>hourly</syn:updatePeriod>
+	<syn:updateFrequency>1</syn:updateFrequency>
+	<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+	<logo>http://a.fsdn.com/sd/topics/topicslashdot.gif</logo>
+	<atom10:link href="http://rss.slashdot.org/slashdot/slashdotMainatom" rel="self" type="application/atom+xml" xmlns:atom10="http://www.w3.org/2005/Atom"/>
+	<feedburner:info uri="slashdot/slashdotmainatom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0"/>
+	<atom10:link href="http://pubsubhubbub.appspot.com/" rel="hub" xmlns:atom10="http://www.w3.org/2005/Atom"/>
+	<entry>
+		<id>http://it.slashdot.org/story/15/08/24/2144218/who-makes-the-decision-to-go-cloud-and-who-should?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>Who Makes the Decision To Go Cloud  and Who Should?</title>
+		<link href="http://it.slashdot.org/story/15/08/24/2144218/who-makes-the-decision-to-go-cloud-and-who-should?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">Esther Schindler writes: It's a predictable argument in any IT shop: Should the techies &amp;mdash; with their hands on their keyboards &amp;mdash; be the people who decide which technology or deployment is right for the company? Or should CIOs and senior management &amp;mdash; with their strategic perspective &amp;mdash; be the ones to make the call? Ellis Luk got input from plenty of people about management vs. techies making cloud/on-premise decisions... with, of course, a lot of varying in opinion.&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=Who+Makes+the+Decision+To+Go+Cloud++and+Who+Should%3F%3A+http%3A%2F%2Fbit.ly%2F1NxQzCn&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F08%2F24%2F2144218%2Fwho-makes-the-decision-to-go-cloud-and-who-should%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://it.slashdot.org/story/15/08/24/2144218/who-makes-the-decision-to-go-cloud-and-who-should?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://it.slashdot.org/story/15/08/24/2144218/who-makes-the-decision-to-go-cloud-and-who-should?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-25T02:03:00+00:00</updated>
+		<author>
+			<name>samzenpus</name>
+		</author>
+		<category term="cloud"/>
+		<slash:department>make-the-call</slash:department>
+		<slash:section>it</slash:section>
+		<slash:comments>46</slash:comments>
+		<slash:hit_parade>46,44,27,22,2,0,0</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://hardware.slashdot.org/story/15/08/24/2141228/south-africans-revolutionize-concentrated-solar-power-with-mini-heliostats?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>South Africans Revolutionize Concentrated Solar Power With Mini Heliostats</title>
+		<link href="http://hardware.slashdot.org/story/15/08/24/2141228/south-africans-revolutionize-concentrated-solar-power-with-mini-heliostats?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">Taffykay writes: Concentrated Solar Power (CSP) offers significant benefits, but it's often prohibitively expensive. Paul Gauch&amp;#233; from Stellenbosch University in South Africa hopes to change that with Helio 100, a series of 'plonkable' miniature heliostats that require no installation or concrete, and offer solar energy that's cheaper than diesel. The Gaurdian reports: &quot;Helio100 is a pilot project with over 100 heliostats of 2.2 sq meters each, generating 150 Kilowatts (kW) of power in total &amp;ndash; enough to power about 10 households. According to Gauch&amp;#233;, the array is already cheaper than using diesel, the go-to fuel for most companies and businesses during regular power outages in the country. Google&amp;rsquo;s RE&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=South+Africans+Revolutionize+Concentrated+Solar+Power+With+Mini+Heliostats%3A+http%3A%2F%2Fbit.ly%2F1Egc2gf&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F08%2F24%2F2141228%2Fsouth-africans-revolutionize-concentrated-solar-power-with-mini-heliostats%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/08/24/2141228/south-africans-revolutionize-concentrated-solar-power-with-mini-heliostats?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://hardware.slashdot.org/story/15/08/24/2141228/south-africans-revolutionize-concentrated-solar-power-with-mini-heliostats?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-25T00:28:00+00:00</updated>
+		<author>
+			<name>samzenpus</name>
+		</author>
+		<category term="power"/>
+		<slash:department>here-comes-the-sun</slash:department>
+		<slash:section>hardware</slash:section>
+		<slash:comments>38</slash:comments>
+		<slash:hit_parade>38,37,28,24,6,3,1</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://science.slashdot.org/story/15/08/24/2135219/is-a-universal-flu-vaccine-on-the-horizon?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>Is a Universal Flu Vaccine On the Horizon?</title>
+		<link href="http://science.slashdot.org/story/15/08/24/2135219/is-a-universal-flu-vaccine-on-the-horizon?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">sciencehabit writes: Two groups of researchers have created vaccines that may lead to a universal flu shot that could protect against every type of flu. Every year millions get a flu shot but with thousands of strains that mutate and evolve across seasons, no one shot can protect against them all. Sciencemag reports on the research: &quot;When the teams vaccinated mice, both groups saw full protection against H5N1, a lethal influenza strain distantly related to H1N1. In both studies, mice that did not receive the stem-derived vaccine died, but vaccinated mice all survived. In further experiments, the nanoparticle-anchoring vaccine showed partial protection in ferrets, whereas the other vaccine showed partial protection in monkeys. Two of the six vaccinated ferrets fell ill and died, compared with a 100% mortality rate for the unvaccinated ferrets. None of the monkeys died, but those that were vaccinated had significantly lower fevers than their nonvaccinated companions.&quot;&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=Is+a+Universal+Flu+Vaccine+On+the+Horizon%3F%3A+http%3A%2F%2Fbit.ly%2F1Iajd4j&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F08%2F24%2F2135219%2Fis-a-universal-flu-vaccine-on-the-horizon%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://science.slashdot.org/story/15/08/24/2135219/is-a-universal-flu-vaccine-on-the-horizon?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://science.slashdot.org/story/15/08/24/2135219/is-a-universal-flu-vaccine-on-the-horizon?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T23:43:00+00:00</updated>
+		<author>
+			<name>samzenpus</name>
+		</author>
+		<category term="medicine"/>
+		<slash:department>one-shot-will-do-you</slash:department>
+		<slash:section>science</slash:section>
+		<slash:comments>39</slash:comments>
+		<slash:hit_parade>39,37,25,17,9,1,1</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://hardware.slashdot.org/story/15/08/24/2125227/robots-are-coming-for-our-jobs-just-not-all-of-them?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>Robots Are Coming For Our Jobs, Just Not All of Them</title>
+		<link href="http://hardware.slashdot.org/story/15/08/24/2125227/robots-are-coming-for-our-jobs-just-not-all-of-them?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">szczys writes: There was a video published on YouTube about a year ago called Humans Need Not Apply which compared human labor now to horse labor just before industrialization. It's a great thought-exercise, but there are a ton of tasks where it's still science-fiction to think robots are taking over anytime soon. Kristina Panos makes a great argument for which jobs we all want to see taken by robots, others that would be very difficult to make happen, and some that would just creep everyone out.&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=Robots+Are+Coming+For+Our+Jobs%2C+Just+Not+All+of+Them%3A+http%3A%2F%2Fbit.ly%2F1NQoVgV&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F08%2F24%2F2125227%2Frobots-are-coming-for-our-jobs-just-not-all-of-them%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/08/24/2125227/robots-are-coming-for-our-jobs-just-not-all-of-them?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://hardware.slashdot.org/story/15/08/24/2125227/robots-are-coming-for-our-jobs-just-not-all-of-them?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T23:00:00+00:00</updated>
+		<author>
+			<name>samzenpus</name>
+		</author>
+		<category term="robot"/>
+		<slash:department>eating-old-people's-medicine-for-fuel</slash:department>
+		<slash:section>hardware</slash:section>
+		<slash:comments>110</slash:comments>
+		<slash:hit_parade>110,110,72,63,7,5,2</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://yro.slashdot.org/story/15/08/24/2157214/2-arrested-in-plot-to-fly-contraband-into-prison-with-drone?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>2 Arrested In Plot To Fly Contraband Into Prison With Drone</title>
+		<link href="http://yro.slashdot.org/story/15/08/24/2157214/2-arrested-in-plot-to-fly-contraband-into-prison-with-drone?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">An anonymous reader writes: Using a drone to get contraband into prison seems to be all the rage lately. Police say two men attempting to fly drugs, tobacco and pornography into a Maryland state prison with a drone were arrested Monday. Stephen T. Moyer, secretary of the Maryland Department of Public Safety and Correctional Services worries that someone will try to use a drone to deliver a gun. &quot;That's my biggest fear,&quot; he told a news conference. &quot;The use of these drones to bring this type of contraband into a facility is very, very troubling, and we're going to address it.&quot;&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=2+Arrested+In+Plot+To+Fly+Contraband+Into+Prison+With+Drone%3A+http%3A%2F%2Fbit.ly%2F1NxnvuD&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F08%2F24%2F2157214%2F2-arrested-in-plot-to-fly-contraband-into-prison-with-drone%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://yro.slashdot.org/story/15/08/24/2157214/2-arrested-in-plot-to-fly-contraband-into-prison-with-drone?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://yro.slashdot.org/story/15/08/24/2157214/2-arrested-in-plot-to-fly-contraband-into-prison-with-drone?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T22:14:00+00:00</updated>
+		<author>
+			<name>samzenpus</name>
+		</author>
+		<category term="crime"/>
+		<slash:department>care-package</slash:department>
+		<slash:section>yro</slash:section>
+		<slash:comments>66</slash:comments>
+		<slash:hit_parade>66,66,44,40,3,0,0</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://it.slashdot.org/story/15/08/24/1939216/court-ftc-can-punish-companies-with-sloppy-cybersecurity?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>Court: FTC Can Punish Companies With Sloppy Cybersecurity</title>
+		<link href="http://it.slashdot.org/story/15/08/24/1939216/court-ftc-can-punish-companies-with-sloppy-cybersecurity?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">jfruh writes: The Congressional act that created the Federal Trade Commission gave that agency broad powers to punish companies engaged in &quot;unfair and deceptive practices.&quot; Today, a U.S. appeals court affirmed that sloppy cybersecurity falls under that umbrella. The case involves data breaches at Wyndham Worldwide, which stored customer payment card information in clear, readable text, and used easily guessed passwords to access its important systems.&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=Court%3A+FTC+Can+Punish+Companies+With+Sloppy+Cybersecurity%3A+http%3A%2F%2Fbit.ly%2F1hXeWMI&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F08%2F24%2F1939216%2Fcourt-ftc-can-punish-companies-with-sloppy-cybersecurity%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://it.slashdot.org/story/15/08/24/1939216/court-ftc-can-punish-companies-with-sloppy-cybersecurity?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://it.slashdot.org/story/15/08/24/1939216/court-ftc-can-punish-companies-with-sloppy-cybersecurity?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T21:30:00+00:00</updated>
+		<author>
+			<name>samzenpus</name>
+		</author>
+		<category term="security"/>
+		<slash:department>who's-to-blame</slash:department>
+		<slash:section>it</slash:section>
+		<slash:comments>59</slash:comments>
+		<slash:hit_parade>59,59,40,34,7,5,1</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://hardware.slashdot.org/story/15/08/24/1856256/the-iot-the-minnowboard-and-how-they-fit-into-the-universe-video?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>The IoT, the MinnowBoard, and How They Fit Into the Universe (Video</title>
+		<link href="http://hardware.slashdot.org/story/15/08/24/1856256/the-iot-the-minnowboard-and-how-they-fit-into-the-universe-video?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">The IoT is becoming more pervasive partly because processor costs are dropping. So are bandwidth costs, even if your ISP isn't sharing those savings with you. Today's interviewee, Mark Skarpness, is &quot;the Director of Embedded Software in the Open Source Technology Center at Intel Corporation,&quot; which is an amazing mouthful of a title. What it means is that he works to extend Intel's reach into Open Source communities, and is also aware of how hardware and software price drops -- and bandwidth price drops at the &quot;wholesale&quot; level -- mean that if you add a dash of IPV6, even lowly flip-flops might have their own IPs one day.
+ 
+This video interview is a little less than six minutes long, while the text transcript covers a 17 minute conversation between Mark Skarpness and Slashdot's Timothy Lord. The video can be considered a &quot;meet Mark&quot; thing, and watching it will surely give you the idea that yes, this guy knows his stuff, but for more info about the spread of the IoT and how the Open Hardware MinnowBoard fits into the panoply of developer tools for IoT work, you'll have to read the transcript.&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=The+IoT%2C+the+MinnowBoard%2C+and+How+They+Fit+Into+the+Universe+(Video%3A+http%3A%2F%2Fbit.ly%2F1ERr0UE&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F08%2F24%2F1856256%2Fthe-iot-the-minnowboard-and-how-they-fit-into-the-universe-video%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/08/24/1856256/the-iot-the-minnowboard-and-how-they-fit-into-the-universe-video?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://hardware.slashdot.org/story/15/08/24/1856256/the-iot-the-minnowboard-and-how-they-fit-into-the-universe-video?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T20:46:00+00:00</updated>
+		<author>
+			<name>Roblimo</name>
+		</author>
+		<category term="hardware"/>
+		<slash:department>things-to-the-left-of-me-internets-to-the-right-and-here-I-am-stuck-in-the-middle-with-you</slash:department>
+		<slash:section>hardware</slash:section>
+		<slash:comments>19</slash:comments>
+		<slash:hit_parade>19,19,11,8,1,0,0</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://tech.slashdot.org/story/15/08/24/1853251/a-breakdown-of-the-windows-10-privacy-policy?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>A Breakdown of the Windows 10 Privacy Policy</title>
+		<link href="http://tech.slashdot.org/story/15/08/24/1853251/a-breakdown-of-the-windows-10-privacy-policy?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">WheezyJoe writes: The Verge has a piece on Windows 10 privacy that presents actual passages from the EULA and privacy policy that suggest what the OS is capturing and sending back to Microsoft. The piece takes a Microsoft-friendly point of view, arguing that all Microsoft is doing is either helpful or already being done either by Google or older releases of Windows, and also touches on how to shut things off (which is also explained here). But the quoted passages from the EULA and the privacy policy are interesting to review, particularly if you look out for legal weasel words that are open to Microsoft's interpretation, such as &quot;various types (of data)&quot;, diagnostic data &quot;vital&quot; to the operation of Windows (cannot be turned off), sharing personal data &quot;as necessary&quot; and &quot;to protect the rights or property of Microsoft&quot;. And while their explanations following the quotes may attempt an overly friendly spin, the article may be right about one thing: &quot;In all, only a handful of these new features, and the privacy concerns they bring, are actually in fact new... Most people have just been either unaware or just did not care of their existence in past operating systems and software.&quot; Even pirates are having privacy concerns and blocking Windows 10 users.&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=A+Breakdown+of+the+Windows+10+Privacy+Policy%3A+http%3A%2F%2Fbit.ly%2F1hDbuHa&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F08%2F24%2F1853251%2Fa-breakdown-of-the-windows-10-privacy-policy%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://tech.slashdot.org/story/15/08/24/1853251/a-breakdown-of-the-windows-10-privacy-policy?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://tech.slashdot.org/story/15/08/24/1853251/a-breakdown-of-the-windows-10-privacy-policy?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T20:03:00+00:00</updated>
+		<author>
+			<name>samzenpus</name>
+		</author>
+		<category term="windows"/>
+		<slash:department>what's-mine-is-yours</slash:department>
+		<slash:section>technology</slash:section>
+		<slash:comments>196</slash:comments>
+		<slash:hit_parade>196,194,131,112,36,15,10</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://hardware.slashdot.org/story/15/08/24/1713205/skylake-has-a-voice-dsp-and-listens-to-your-commands?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>Skylake Has a Voice DSP and Listens To Your Commands</title>
+		<link href="http://hardware.slashdot.org/story/15/08/24/1713205/skylake-has-a-voice-dsp-and-listens-to-your-commands?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">itwbennett writes: Intel's new Skylake processor (like the Core M processor released last year) comes with a built-in digital signal processor (DSP) that will allow you to turn on and control your PC with your voice. Although the feature is not new, what is new is the availability of a voice controlled app to use it: Enter Windows 10 and Cortana. If this sounds familiar, it should, writes Andy Patrizio: 'A few years back when the Xbox One was still in development, word came that Kinect, its motion and audio sensor controller, would be required to use the console and Kinect would always be listening for voice commands to start the console. This caused something of a freak-out among gamers, who feared Microsoft would be listening.'&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=Skylake+Has+a+Voice+DSP+and+Listens+To+Your+Commands%3A+http%3A%2F%2Fbit.ly%2F1WOCjYW&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F08%2F24%2F1713205%2Fskylake-has-a-voice-dsp-and-listens-to-your-commands%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/08/24/1713205/skylake-has-a-voice-dsp-and-listens-to-your-commands?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://hardware.slashdot.org/story/15/08/24/1713205/skylake-has-a-voice-dsp-and-listens-to-your-commands?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T19:17:00+00:00</updated>
+		<author>
+			<name>samzenpus</name>
+		</author>
+		<category term="intel"/>
+		<slash:department>talking-to-machines</slash:department>
+		<slash:section>hardware</slash:section>
+		<slash:comments>72</slash:comments>
+		<slash:hit_parade>72,72,46,36,8,7,2</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://yro.slashdot.org/story/15/08/24/1710219/swatch-trademarks-one-more-thing?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>Swatch Trademarks &quot;One More Thing...&quot;</title>
+		<link href="http://yro.slashdot.org/story/15/08/24/1710219/swatch-trademarks-one-more-thing?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">AmiMoJo writes: It's the famous line Steve Jobs often used on stage to introduce unexpected Apple gadgets since 1999. Of course he wasn't the only one to utter it &amp;mdash; TV detective Columbo was catching out criminals with the phrase way back in the 1970s and '80s too. Now Swiss watchmaker Swatch has acquired a trademark on the phrase &quot;one more thing&quot;.&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=Swatch+Trademarks+%22One+More+Thing...%22%3A+http%3A%2F%2Fbit.ly%2F1Js4m6g&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F08%2F24%2F1710219%2Fswatch-trademarks-one-more-thing%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://yro.slashdot.org/story/15/08/24/1710219/swatch-trademarks-one-more-thing?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://yro.slashdot.org/story/15/08/24/1710219/swatch-trademarks-one-more-thing?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T18:34:00+00:00</updated>
+		<author>
+			<name>samzenpus</name>
+		</author>
+		<category term="business"/>
+		<slash:department>watch-what-you-say</slash:department>
+		<slash:section>yro</slash:section>
+		<slash:comments>87</slash:comments>
+		<slash:hit_parade>87,86,62,49,14,5,3</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://science.slashdot.org/story/15/08/23/2147242/interviews-dr-tarek-loubani-answers-your-questions?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>Interviews: Dr. Tarek Loubani Answers Your Questions</title>
+		<link href="http://science.slashdot.org/story/15/08/23/2147242/interviews-dr-tarek-loubani-answers-your-questions?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">Last week you had a chance to ask Dr. Tarek Loubani about his 3D-printable, 30-cent stethoscope project, and other open source, ultra-low cost medical equipment. Below you'll find his answers to your questions.&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=Interviews%3A+Dr.+Tarek+Loubani+Answers+Your+Questions%3A+http%3A%2F%2Fbit.ly%2F1h9iSZX&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F08%2F23%2F2147242%2Finterviews-dr-tarek-loubani-answers-your-questions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://science.slashdot.org/story/15/08/23/2147242/interviews-dr-tarek-loubani-answers-your-questions?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://science.slashdot.org/story/15/08/23/2147242/interviews-dr-tarek-loubani-answers-your-questions?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T17:51:00+00:00</updated>
+		<author>
+			<name>samzenpus</name>
+		</author>
+		<category term="medicine"/>
+		<slash:department>read-all-about-it</slash:department>
+		<slash:section>science</slash:section>
+		<slash:comments>4</slash:comments>
+		<slash:hit_parade>4,2,2,1,0,0,0</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://news.slashdot.org/story/15/08/24/1625221/a-farewell-to-flash?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>A Farewell To Flash</title>
+		<link href="http://news.slashdot.org/story/15/08/24/1625221/a-farewell-to-flash?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">An anonymous reader writes: The decline of Flash is well and truly underway. Media publishers now have no choice but to start changing the way they bring content to the web. Many of them are not thrilled about the proposition (change is scary), but it will almost certainly be better for all of us in the long run. &quot;By switching their platform to HTML5, companies can improve supportability, development time will decrease and the duplicative efforts of supporting two code bases will be eliminated. It will also result in lower operating costs and a consistent user experience between desktop and mobile web.&quot; This is on top of the speed, efficiency, and security benefits for consumers. &quot;A major concern for publishers today is the amount of media consumption that's occurring in mobile environments. They need to prioritize providing the best possible experience on mobile, and the decline of Flash and movement to HTML5 will do just that, as Flash has never worked well on mobile.&quot;&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=A+Farewell+To+Flash%3A+http%3A%2F%2Fbit.ly%2F1LvX4VH&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F08%2F24%2F1625221%2Fa-farewell-to-flash%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://news.slashdot.org/story/15/08/24/1625221/a-farewell-to-flash?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://news.slashdot.org/story/15/08/24/1625221/a-farewell-to-flash?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T17:09:00+00:00</updated>
+		<author>
+			<name>Soulskill</name>
+		</author>
+		<category term="media"/>
+		<slash:department>not-a-decade-too-soon</slash:department>
+		<slash:section>news</slash:section>
+		<slash:comments>158</slash:comments>
+		<slash:hit_parade>158,158,106,93,31,17,12</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://yro.slashdot.org/story/15/08/24/1537259/ashley-madison-hack-claims-first-victims?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>Ashley Madison Hack Claims First Victims</title>
+		<link href="http://yro.slashdot.org/story/15/08/24/1537259/ashley-madison-hack-claims-first-victims?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">wired_parrot writes: Toronto police are reporting that 2 unconfirmed suicides have been linked to the data breach. This follows pleas from other users of the site for the hackers to not release the data before it was exposed- an anonymous gay Reddit user from Saudi Arabia, where homosexuality is illegal, pleaded for the data to be kept private: &quot;I am about to be killed, tortured, or exiled,&quot; he wrote. &quot;And I did nothing.&quot; And when The Intercept published a piece condemning the puritanical glee over the data dump, one user who commented on the article said she's been &quot;a long term member&quot; of the site because her spouse's medical condition has affected their intimate life. Her spouse knows she's engaged with other Ashley Madison members, she says, but now fears she will likely lose friends and have to find a new job now that her association with the site is out there.
+Ashley Madison has now offered a $380,000 reward for information that leads to the arrest and conviction of the hackers who leaked the data. Security researcher Troy Hunt has also posted about the kind of emails he's received from users after the data leak.&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=Ashley+Madison+Hack+Claims+First+Victims%3A+http%3A%2F%2Fbit.ly%2F1U2u2By&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F08%2F24%2F1537259%2Fashley-madison-hack-claims-first-victims%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://yro.slashdot.org/story/15/08/24/1537259/ashley-madison-hack-claims-first-victims?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://yro.slashdot.org/story/15/08/24/1537259/ashley-madison-hack-claims-first-victims?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T16:27:00+00:00</updated>
+		<author>
+			<name>Soulskill</name>
+		</author>
+		<category term="privacy"/>
+		<slash:department>nobody-wins</slash:department>
+		<slash:section>yro</slash:section>
+		<slash:comments>564</slash:comments>
+		<slash:hit_parade>564,551,332,276,68,43,27</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://news.slashdot.org/story/15/08/24/1531222/group-seeks-test-for-geoengineering-tool-to-fight-climate-change?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>Group Seeks Test For Geoengineering Tool To Fight Climate Change</title>
+		<link href="http://news.slashdot.org/story/15/08/24/1531222/group-seeks-test-for-geoengineering-tool-to-fight-climate-change?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">An anonymous reader writes: A group of retired engineers and scientists has been meeting for several years to develop techniques to fight climate change. They've now reached the point where they want to actively test a machine that shoots water droplets into the sky in order to supplement existing clouds and increase the planet's albedo. The group is not aiming for full deployment &amp;mdash; in fact, it's not even unanimous in support for prevailing theories in climate science. But they all agree that it's important to learn about such technologies before the situation becomes a crisis. &quot;We need to understand whether this approach is even possible and what the risks are, in the event that we find ourselves looking for ways to extend time and mitigate warming damage.&quot; If we're eventually forced to deploy large-scale geoengineering projects to combat climate change, it's not a good idea to grab whatever technology is cheapest or most readily available without knowing how well it works. The group is aware of the ethical concerns surrounding such research, but its director notes, &quot;The fact is humanity is already engaged in unplanned climate engineering. We're doing it through coal plant and shipping emissions every day without understanding it very well.&quot;&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=Group+Seeks+Test+For+Geoengineering+Tool+To+Fight+Climate+Change%3A+http%3A%2F%2Fbit.ly%2F1U9tyEs&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F08%2F24%2F1531222%2Fgroup-seeks-test-for-geoengineering-tool-to-fight-climate-change%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://news.slashdot.org/story/15/08/24/1531222/group-seeks-test-for-geoengineering-tool-to-fight-climate-change?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://news.slashdot.org/story/15/08/24/1531222/group-seeks-test-for-geoengineering-tool-to-fight-climate-change?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T15:45:00+00:00</updated>
+		<author>
+			<name>Soulskill</name>
+		</author>
+		<category term="earth"/>
+		<slash:department>or-to-create-made-to-order-clouds</slash:department>
+		<slash:section>news</slash:section>
+		<slash:comments>114</slash:comments>
+		<slash:hit_parade>114,107,70,58,15,10,6</slash:hit_parade>
+	</entry>
+	<entry>
+		<id>http://yro.slashdot.org/story/15/08/24/153241/judge-rules-that-inglewood-california-cannot-copyright-public-videos?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed</id>
+		<title>Judge Rules That Inglewood, California Cannot Copyright Public Videos</title>
+		<link href="http://yro.slashdot.org/story/15/08/24/153241/judge-rules-that-inglewood-california-cannot-copyright-public-videos?utm_source=atom1.0mainlinkanon&amp;utm_medium=feed"/>
+		<summary type="html">UnknowingFool writes: Recently a judge ruled in California that the city of Inglewood cannot hold copyrights of videos of public city council meetings which they published on their YouTube account and thus cannot sue individuals for copyright infringement for using them. In several YouTube videos, Joseph Teixeira, a resident of Inglewood, California, criticized the mayor, James Butts. Under the account name Dehol Truth, Teixeira took city council meetings posted on their YouTube account and edited them to make pointed criticisms about the mayor.
+ 
+The city responded by registering the videos with copyrights and then suing Teixeira for copyright infringement. Many would say it was a thinly veiled attempt to silence a critic. Teixeira filed a motion to dismiss, arguing that (1) the city cannot claim copyright over public records (videos of public city council meetings) and (2) even if they could, his videos fell under Fair Use.
+ Unsurprisingly, a judge dismissed the city's case, citing California law which bars the city from holding copyrights on most public records. (This case may not be over as Teixeira's pro bono lawyer has not filed for attorney's fees. The ruling can be found here.) What is notable is that the judge dismissed the case with prejudice, so the city cannot refile. Normally judges do not do this unless they feel that the plaintiff's case was so weak that he feels no judge should hear the case ever again. Since the judge agreed with the defendant on the first point, he would not normally need to address Teixeira's Fair Use defense, but he did anyway. Anticipating that the city may appeal his decision, judge ruled that Teixeira's videos substantially met all four factors for Fair Use:
+ There is no evidence Teixeira used the videos for commercial gain and was transformative His work was creative by adding music and commentary to the normally boring council videos
+Despite the city's claim he used their &quot;entire work&quot;, it clear that he only used portions of meetings that lasted as long as four hours editing them down to a max of 15 minutes.
+Teixeira did not harm the city's market for the videos because the city is barred by state law from recouping more than direct costs of duplication. Even if the city could sell the videos (which they published themselves for free on YouTube), his short videos are not a substitute.&lt;p&gt;&lt;div class=&quot;share_submission&quot; style=&quot;position:relative;&quot;&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://twitter.com/home?status=Judge+Rules+That+Inglewood%2C+California+Cannot+Copyright+Public+Videos%3A+http%3A%2F%2Fbit.ly%2F1hCCDKv&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/twitter_icon_large.png&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;slashpop&quot; href=&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F08%2F24%2F153241%2Fjudge-rules-that-inglewood-california-cannot-copyright-public-videos%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook&quot;&gt;&lt;img src=&quot;http://a.fsdn.com/sd/facebook_icon_large.png&quot;&gt;&lt;/a&gt;
+
+&lt;a class=&quot;nobg&quot; href=&quot;http://plus.google.com/share?url=http://yro.slashdot.org/story/15/08/24/153241/judge-rules-that-inglewood-california-cannot-copyright-public-videos?utm_source=slashdot&amp;amp;utm_medium=googleplus&quot; onclick=&quot;javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;&lt;img src=&quot;http://www.gstatic.com/images/icons/gplus-16.png&quot; alt=&quot;Share on Google+&quot;/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://yro.slashdot.org/story/15/08/24/153241/judge-rules-that-inglewood-california-cannot-copyright-public-videos?utm_source=atom1.0moreanon&amp;amp;utm_medium=feed&quot;&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;</summary>
+		<updated>2015-08-24T15:05:00+00:00</updated>
+		<author>
+			<name>Soulskill</name>
+		</author>
+		<category term="censorship"/>
+		<slash:department>public-is-public</slash:department>
+		<slash:section>yro</slash:section>
+		<slash:comments>61</slash:comments>
+		<slash:hit_parade>61,59,45,38,8,4,3</slash:hit_parade>
+	</entry>
+</feed>
